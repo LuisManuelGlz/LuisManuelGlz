@@ -2,9 +2,9 @@
 
   <img align="center" alt="LuisManuelGlz" src="header.gif" />
 
-  # Hi, I'm Luis <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
+  # Hi friends <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
 
-  Welcome to my profile, mi name is Luis Manuel. I'm a web developer Jr. Currently I'm studying Computer Systems Engineering at Tijuana Institute of Technology.
+  Welcome to my profile, mi name is Luis Manuel. I'm a junior web developer and I'm studying Computer Systems Engineering at Tijuana Institute of Technology. Currently I'm learning English and mobile development.
 
   ### Languages and tools
 
@@ -23,7 +23,7 @@
     <img alt="Python" src="https://img.shields.io/badge/-Python-F8EA26?style=flat-square&logo=python&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/-Django-103E2E?style=flat-square&logo=django&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-mongodb-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=mysql&logoColor=white" />
   </p>
 
