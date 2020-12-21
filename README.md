@@ -13,7 +13,6 @@
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="React.js" src="https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img alt="React Native" src="https://img.shields.io/badge/-React Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-npm-cc0000?style=flat-square&logo=npm&logoColor=white" />
