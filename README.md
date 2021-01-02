@@ -4,7 +4,7 @@
 
   # Hi friends <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
 
-  Welcome to my profile, mi name is Luis Manuel. I'm a junior web developer and I'm studying Computer Systems Engineering at Tijuana Institute of Technology. Currently I'm learning English and mobile development.
+  Welcome to my profile, my name is Luis Manuel. I'm a junior web developer and I'm studying Computer Systems Engineering at Tijuana Institute of Technology. Currently I'm learning English and mobile development.
 
   ### Languages and tools
 
@@ -21,7 +21,6 @@
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
     <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-    <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
