@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img align="center" alt="LuisManuelGlz" src="header.gif" />
+  <a href="https://luismanuelglz.me">
+    <img align="center" alt="LuisManuelGlz" src="header.gif" />
+  </a>
 
   # Hi friends <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
 
@@ -29,10 +31,10 @@
 
   ### You can find me on
 
-  <a href="https://www.linkedin.com/in/luismanuelglz" target="_blank">
+  <a href="https://www.linkedin.com/in/luismanuelglz">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/LuisManuelGlz_" target="_blank">
+  <a href="https://twitter.com/LuisManuelGlz_">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
