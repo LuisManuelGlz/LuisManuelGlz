@@ -4,9 +4,9 @@
     <img align="center" alt="LuisManuelGlz" src="header.gif" />
   </a>
 
-  # Hi friends <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
+  # Hello folks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
 
-  Welcome to my profile, my name is Luis Manuel. I'm a junior web developer and I'm studying Computer Systems Engineering at Tijuana Institute of Technology. Currently I'm learning English and mobile development.
+  Welcome to my profile, my name is Luis Manuel. I'm a Jr Web Developer and I'm studying Computer Systems Engineering at Tijuana Institute of Technology.
 
   ### Languages and tools
 
