@@ -1,9 +1,5 @@
 <div align="center">
 
-  <a href="https://luismanuelglz.me">
-    <img align="center" alt="LuisManuelGlz" src="header.gif" />
-  </a>
-
   # Hello folks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
 
   Welcome to my profile, my name is Luis Manuel. I'm a Jr Web Developer and I'm studying Computer Systems Engineering at Tijuana Institute of Technology.
