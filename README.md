@@ -1,31 +1,17 @@
-<div align="center">
+# Hello, I'm Luis Gonzalez! 👨‍🔬 ![Codewars Profile Badge](https://www.codewars.com/users/luismanuelglz/badges/small)
 
-  # Hello folks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>
+I began my journey as a developer and have evolved into a 🧪 QA Automation Engineer with a passion for ensuring software quality. Welcome to my GitHub profile!
 
-  Welcome to my profile, my name is Luis Manuel. I'm a Jr Web Developer and I studied Computer Systems Engineering at Tijuana Institute of Technology.
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 
-  ### Languages and tools
+## 🔧 Technologies & Tools
 
-  <p>
-    <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="React.js" src="https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
-    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=mysql&logoColor=white" />
-  </p>
-
-  ### You can find me on
-
-  <a href="https://www.linkedin.com/in/luismanuelglz">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/LuisManuelGlz_">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
-</div>
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&labelColor=black&logo=csharp&logoColor=512BD4)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=CC2927)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=43B02A)
