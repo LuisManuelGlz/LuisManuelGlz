@@ -2,7 +2,9 @@
 
 I began my journey as a developer and have evolved into a 🧪 QA Automation Engineer with a passion for ensuring software quality. Welcome to my GitHub profile!
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://linkedin.com/in/luismanuelglz" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
 
 ## 🔧 Technologies & Tools
 
